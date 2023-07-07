@@ -1,0 +1,44 @@
+.list1
+{
+    float: left;
+    width: 49%;
+    font-size: 332%;
+    margin-left: 3%;
+}
+.list2
+{
+    float: right;
+    width: 48%;
+    font-size: 332%;
+}
+.title
+{
+    font-size: 200%;
+    text-align: center;
+}
+.text
+{
+    /* background-color: red; */
+    width: 60%;
+    float: left;
+    font-size: larger;
+    letter-spacing: 0.05em;
+    word-spacing:0.4em;
+}
+.image
+{
+   /* background-color: green; */
+   float: right;
+   width: 40%;
+}
+img
+{
+    width: 70%;
+    /* float right: ; */
+    float: right;
+
+}
+h4
+{
+    font-size: 150%;
+}
