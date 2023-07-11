@@ -1,41 +1,61 @@
-.list1
-{
-    float: left;
-    width: 49%;
-    font-size: 332%;
-    margin-left: 3%;
-}
-.list2
-{
-    float: right;
-    width: 48%;
-    font-size: 332%;
-}
 .title
 {
     font-size: 200%;
     text-align: center;
+    /* display: flex; */
+    /* flex-direction: row; */
+}
+.tit
+{
+    display: flex;
+}
+/* title */
+
+.list1
+{
+    /* float: left; */
+    width: 49%;
+    font-size: 332%;
+    /* background-color: aqua; */
+    opacity: 100%;
+    /* display: flex; */
+    margin-left: 5%;
+}
+.list2
+{
+    /* float: right; */
+    /* display: flex; */
+    width: 48%;
+    /* background-color: aquamarine; */
+    font-size: 332%;
+}
+.flexbox
+{
+    display: flex;
+    /* display: inline; */
 }
 .text
 {
     /* background-color: red; */
     width: 60%;
-    float: left;
+    /* float: left; */
     font-size: larger;
     letter-spacing: 0.05em;
     word-spacing:0.4em;
+    /* display: inline-block; */
 }
 .image
 {
    /* background-color: green; */
-   float: right;
-   width: 40%;
+   /* float: right; */
+   width: 42%;
+   /* display: inline; */
 }
 img
 {
-    width: 70%;
+    width: 80%;
     /* float right: ; */
-    float: right;
+    /* float: right; */
 
 }
 h4
